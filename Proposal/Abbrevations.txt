@@ -1,0 +1,16 @@
+SCA-Side channel Attacks
+SPA-Simple Power Analisis
+DPA-
+CRT-Chinese Remainder Therome
+EM-Eloctro maganetic
+IC-Intergrated Circuits
+ADC-Analog to Digital Convertor
+DAC-Digital to analog Convertor
+PLL-Phase Lock look
+LNA- Low Noise Amplifier
+FIA-Falut Injection Attack
+PUF-Physical Unclonable Funtion
+FPGA-Field Programble Gate Array
+ML-Machine Learning
+AI-Aritificial Inteligence
+LSI-Large Scale Intergratrion
